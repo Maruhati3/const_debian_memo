@@ -1,4 +1,4 @@
-#debianサーバー構築時のメモ
+# debianサーバー構築時のメモ
 
 08
 git remote addのurlはhttps://githubではなく
